@@ -1,0 +1,10 @@
+.icon{
+    width:16px;
+    height:16px;
+    filter : invert(21%) sepia(89%) saturate(6728%) hue-rotate(281deg) brightness(97%) contrast(114%);
+}
+
+.icon:hover{
+    cursor: pointer;
+    filter: invert(100%) sepia(1%) saturate(2%) hue-rotate(332deg) brightness(110%) contrast(100%);
+}
